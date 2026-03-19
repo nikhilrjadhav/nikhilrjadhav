@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Senior+Angular+Developer;Full-Stack+.NET+Learner;10%2B+Years+Experience;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=6000&color=4a6d35&center=true&vCenter=true&width=700&lines=Senior+Angular+Developer;Full-Stack+Engineer+With+PHP+Laravel+.NET+TECH;10%2B+Years+Experience;Building+Scalable+Web+Applications" />
 </p>
 
 <p align="center">
