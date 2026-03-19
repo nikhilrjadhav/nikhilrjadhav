@@ -109,21 +109,14 @@ Building a **plug-and-play Angular foundation** for real-world apps:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikhilrjadhav&show_icons=true&theme=tokyonight" />
   <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilrjadhav&theme=tokyonight" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilrjadhav&layout=compact&theme=tokyonight" />
 </p>
 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilrjadhav&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilrjadhav&theme=tokyonight" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
