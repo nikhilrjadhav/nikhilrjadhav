@@ -60,6 +60,21 @@
 
 ## 🚀 Featured Projects
 
+### 🔗 Office Manager API (NEW 🔥)  
+👉 https://github.com/nikhilrjadhav/OfficeManager-API  
+
+A scalable backend system built using **ASP.NET Core Web API** following Clean Architecture principles.
+
+**Key Features:**
+- JWT Authentication  
+- Employee Management  
+- Expense & Vendor Management  
+- Salary & Invoice System  
+- Layered Architecture (API → Application → Domain → Infrastructure)  
+
+**Tech Stack:**  
+.NET Core, Entity Framework Core, SQL Server  
+
 ### 🔗 Food Connect – Home Cooked Meals Platform  
 👉 https://github.com/nikhilrjadhav/food-connect  
 
