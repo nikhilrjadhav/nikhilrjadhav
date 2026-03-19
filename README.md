@@ -106,10 +106,10 @@ Building a **plug-and-play Angular foundation** for real-world apps:
 ---
 
 ## 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilrjadhav&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhilrjadhav&theme=onedark&margin-w=10&no-bg=true" />
 </p>
+
 
 ---
 
