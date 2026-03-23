@@ -3,23 +3,47 @@
   <img src="https://komarev.com/ghpvc/?username=nikhilrjadhav&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+<!-- Premium Contact Icons -->
+<p align="center">
+  <a href="mailto:nikhilrjadhav4@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="22" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nikhilrjadhav4/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="22" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/nikhilrjadhav">
+    <img src="https://img.icons8.com/ios-glyphs/30/github.png" width="22" />
+  </a>
+</p>
+
+<!-- Name -->
+<h1 align="center">Hi 👋, I'm Nikhil R. Jadhav</h1>
+
+<!-- Title -->
 <h3 align="center">
 Senior Frontend Developer | Angular Specialist | PHP Expert | Aspiring Full-Stack (.NET) Developer 🚀
 </h3>
 
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nikhilrjadhav/nikhilrjadhav/main/banner.png" alt="banner" width="100%" />
-</p>
+---
 
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=5000&color=F77548&center=true&vCenter=true&width=900&lines=10%2B+Years+of+Experience+in+Web+Development;Specialized+in+Angular+%7C+PHP+%7C+.NET;Building+Scalable+and+High-Performance+Applications;Delivering+Secure+and+Enterprise-Grade+Solutions" />
 </p>
 
+
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nikhilrjadhav/nikhilrjadhav/main/banner.png" alt="banner" width="100%" />
+</p>
+
+
+
 ---
 
-## 👨‍💻 I'm Nikhil R. Jadhav
+## 👨‍💻 About me
 
 - 🔧 **10+ years of experience** building scalable, enterprise-grade web applications  
 - ⚡ Specialist in **Angular (v2–v19)** with strong focus on performance & architecture  
