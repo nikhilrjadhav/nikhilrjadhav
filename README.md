@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nikhilrjadhav/nikhilrjadhav/banner.png" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/nikhilrjadhav/nikhilrjadhav/main/banner.png" alt="banner" width="100%" />
 </p>
 
 <!-- Typing Animation -->
