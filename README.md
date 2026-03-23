@@ -1,14 +1,26 @@
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=6000&color=4a6d35&center=true&vCenter=true&width=700&lines=Senior+Angular+Developer;Full-Stack+Engineer+With+PHP+Laravel+.NET+TECH;10%2B+Years+Experience;Building+Scalable+Web+Applications" />
+  <img src="https://raw.githubusercontent.com/nikhilrjadhav/nikhilrjadhav/main/banner.png" alt="banner" width="100%" />
 </p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=5000&color=00C2FF&center=true&vCenter=true&width=900&lines=Senior+Angular+Developer;Full-Stack+Engineer+(PHP+Laravel+.NET);10%2B+Years+Experience;Building+Scalable+Enterprise+Applications" />
+</p>
+
+<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikhilrjadhav&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+<!-- Heading -->
 <h1 align="center">Hi 👋, I'm Nikhil Jadhav</h1>
-<h3 align="center">Senior Frontent Developer | Angular Specialist | PHP Expert | Aspiring Full-Stack (.NET) Developer 🚀</h3>
 
+<h3 align="center">
+Senior Frontend Developer | Angular Specialist | PHP Expert | Aspiring Full-Stack (.NET) Developer 🚀
+</h3>
+
+---
 ---
 
 ## 👨‍💻 About Me
