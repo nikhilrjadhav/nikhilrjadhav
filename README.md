@@ -1,3 +1,12 @@
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikhilrjadhav&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<h3 align="center">
+Senior Frontend Developer | Angular Specialist | PHP Expert | Aspiring Full-Stack (.NET) Developer 🚀
+</h3>
+
 <!-- Banner Image -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/nikhilrjadhav/nikhilrjadhav/main/banner.png" alt="banner" width="100%" />
@@ -5,25 +14,12 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=5000&color=00C2FF&center=true&vCenter=true&width=900&lines=Senior+Angular+Developer;Full-Stack+Engineer+(PHP+Laravel+.NET);10%2B+Years+Experience;Building+Scalable+Enterprise+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=5000&color=F77548&center=true&vCenter=true&width=900&lines=10%2B+Years+of+Experience+in+Web+Development;Specialized+in+Angular+%7C+PHP+%7C+.NET;Building+Scalable+and+High-Performance+Applications;Delivering+Secure+and+Enterprise-Grade+Solutions" />
 </p>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhilrjadhav&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<!-- Heading -->
-<h1 align="center">Hi 👋, I'm Nikhil Jadhav</h1>
-
-<h3 align="center">
-Senior Frontend Developer | Angular Specialist | PHP Expert | Aspiring Full-Stack (.NET) Developer 🚀
-</h3>
-
----
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 I'm Nikhil R. Jadhav
 
 - 🔧 **10+ years of experience** building scalable, enterprise-grade web applications  
 - ⚡ Specialist in **Angular (v2–v19)** with strong focus on performance & architecture  
